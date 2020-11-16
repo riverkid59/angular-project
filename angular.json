@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "queteAngular1"
+    }
+  },
+  "defaultProject": "queteAngular1",
+  "cli": {
+    "analytics": false
+  }
 }
